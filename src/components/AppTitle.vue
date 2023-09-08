@@ -3,6 +3,7 @@
 export default {
   data () {
     return {
+      title: 'la mia prima app con Vue'
     }
   }
 }
@@ -11,7 +12,7 @@ export default {
 
 <template>
     <h2 class="text-center my-2 text-decoration-line-through">Hello Wor..Vue</h2>
-    <h1 class="text-center my-2">La mia prima app con Vue!</h1>
+    <h1 class="text-center my-2"> {{ title }}</h1>
 </template>
 
 <style></style>
