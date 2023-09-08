@@ -3,7 +3,7 @@
 export default {
   data () {
     return {
-      title: 'la mia prima app con Vue'
+      title: 'La mia prima app con Vue !'
     }
   }
 }
