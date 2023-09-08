@@ -12,7 +12,7 @@ export default {
 </script>
 
 <template>
-  <AppTitle/>
+  <AppTitle />
   <AppHero />
 </template>
 

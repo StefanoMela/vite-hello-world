@@ -21,7 +21,7 @@ export default {
 </script>
 
 <template>
-  <div class="container d-flex justify-content-center overlay content">
+  <div class="container d-flex justify-content-center overlay-content">
     <img :src="buildImagePath(image)" alt="" class="overlay-lighten">
     <p class="display-3 overlay-text">Jumbotron</p>
   </div>
